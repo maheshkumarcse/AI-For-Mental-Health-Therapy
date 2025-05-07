@@ -1,0 +1,24 @@
+app.py is the main file to run this project
+
+Run app.py
+
+----------------Before running app.py install----------------------
+python
+pip flask
+pip install opencv-python
+pip install pillow
+pip install sqlite3
+pip install opencv-contrib-python
+
+-----------------To view criminal database install db browser-------------------------
+db browser-----------https://sqlitebrowser.org/dl/
+
+-----------------If any error occurs try to install these packages-------------------------
+pip install db-sqlite3
+pip install opencv-python
+pip install opencv-python-headless
+pip install opencv-contrib-python
+pip install sys
+pip install pandas
+
+-------------You are ready now--------------------run app.py and test it
